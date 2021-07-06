@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Svelte, cloud serverless architecture**
 
-- 📝 I regularly write articles on [mohsinamjad.github.io](mohsinamjad.github.io)
+- 📝 I regularly write articles on [https://mohsinamjad.github.io](https://mohsinamjad.github.io)
 
 - 💬 Ask me about **react, vue, graphql, node and kubernetes**
 
